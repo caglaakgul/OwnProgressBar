@@ -43,7 +43,7 @@ afterEvaluate {
 
                 groupId = 'com.github.caglaakgul'
                 artifactId = 'own-progress-bar'
-                version = '1.0'
+                version = '1.0.0'
             }
         }
     }
